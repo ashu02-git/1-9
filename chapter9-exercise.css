@@ -27,8 +27,7 @@ main {
 }
 
 .step {
-  height: 25px;
-  line-height: 25px;
+  padding: 3px;
   color: #fff;
   background-color: #ff9a4b;
   position: absolute;
